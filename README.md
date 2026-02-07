@@ -1,5 +1,14 @@
 # 💫 About Me:
-MCA student 💻 <br>Code. Learn. Build. Repeat. <br>Future software developer 🚀
+### 👋 About Me
+
+I’m Aman Prajapati, an MCA student at KIET Ghaziabad and an aspiring UI/UX Designer & Frontend Developer.
+
+I design clean, user-friendly interfaces in Figma and turn them into responsive web pages using HTML, CSS and JavaScript. I have completed the Google Foundations of UX Design certification and worked on projects like RentEase (rental platform UI), Weather App UI and a Coffee Shop website.
+
+I also have internship experience in content writing and web-related tasks, which improved my communication and problem-solving skills.
+
+I’m currently focused on improving my frontend development skills and looking for an opportunity to start my career in software or UI/UX development.
+
 
 
 ## 🌐 Socials:
